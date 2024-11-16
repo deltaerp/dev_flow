@@ -1,6 +1,6 @@
 import { auth, signOut } from "@/auth";
 import { Button } from "@/components/ui/button";
-import ROUTES from "@/constant/routes";
+import ROUTES from "@/constants/routes";
 
 // import ROUTES from "@/constants/routes";
 
