@@ -1,7 +1,6 @@
 import { ReactNode } from "react";
 
 import LeftSidebar from "@/components/navigation/LeftSidebar";
-// import LeftSidebar from "@/components/navigation/LeftSideBar";
 import Navbar from "@/components/navigation/navbar";
 import RightSidebar from "@/components/navigation/RightSidebar";
 
